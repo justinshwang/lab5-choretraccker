@@ -36,10 +36,19 @@
     "coverage": {
       "/mnt/c/users/justi/documents/67373/lab5-choretracker-starter/app/models/child.rb": [
         1,
+        1,
+        1,
         null,
+        1,
+        0,
         null
       ],
       "/mnt/c/users/justi/documents/67373/lab5-choretracker-starter/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
+      "/mnt/c/users/justi/documents/67373/lab5-choretracker-starter/app/models/task.rb": [
         1,
         1,
         null
@@ -297,13 +306,10 @@
       ],
       "/mnt/c/users/justi/documents/67373/lab5-choretracker-starter/app/models/chore.rb": [
         0,
-        0
-      ],
-      "/mnt/c/users/justi/documents/67373/lab5-choretracker-starter/app/models/task.rb": [
         0,
         0
       ]
     },
-    "timestamp": 1612557096
+    "timestamp": 1612559288
   }
 }
