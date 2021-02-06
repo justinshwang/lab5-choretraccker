@@ -34,22 +34,10 @@
   },
   "Unit Tests": {
     "coverage": {
-      "/mnt/c/users/justi/documents/67373/lab5-choretracker-starter/app/models/child.rb": [
+      "/mnt/c/users/justi/documents/67373/lab5-choretracker-starter/app/models/task.rb": [
         1,
         1,
         1,
-        null,
-        1,
-        1,
-        null,
-        null,
-        1,
-        3,
-        null,
-        null,
-        null,
-        3,
-        2,
         null,
         null
       ],
@@ -64,8 +52,20 @@
         1,
         null
       ],
-      "/mnt/c/users/justi/documents/67373/lab5-choretracker-starter/app/models/task.rb": [
+      "/mnt/c/users/justi/documents/67373/lab5-choretracker-starter/app/models/child.rb": [
         1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        null,
         1,
         1,
         null,
@@ -323,6 +323,6 @@
         0
       ]
     },
-    "timestamp": 1612646067
+    "timestamp": 1612646840
   }
 }
