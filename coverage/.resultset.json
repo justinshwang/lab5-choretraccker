@@ -7,6 +7,9 @@
         1,
         null,
         null,
+        1,
+        null,
+        null,
         3,
         2,
         null,
@@ -14,6 +17,14 @@
         2,
         2,
         2,
+        null,
+        null,
+        1,
+        2,
+        1,
+        null,
+        1,
+        null,
         null
       ],
       "/mnt/c/users/justi/documents/67373/lab5-choretracker-starter/app/models/application_record.rb": [
@@ -307,6 +318,6 @@
         0
       ]
     },
-    "timestamp": 1612649071
+    "timestamp": 1612649253
   }
 }
